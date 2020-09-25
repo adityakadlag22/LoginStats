@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="utilities.Showact">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+        <com.airbnb.lottie.LottieAnimationView
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            app:lottie_rawRes="@raw/accountant"
+            app:lottie_autoPlay="true"
+            app:lottie_loop="true"
+            android:id="@+id/l1">
+
+        </com.airbnb.lottie.LottieAnimationView>
+        <com.airbnb.lottie.LottieAnimationView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            app:lottie_autoPlay="true"
+            app:lottie_loop="true"
+            android:id="@+id/anim2"
+            app:lottie_rawRes="@raw/checkmarksuccess"
+            android:visibility="visible"
+            android:layout_toEndOf="@id/l1"
+            android:layout_toRightOf="@id/l1">
+        </com.airbnb.lottie.LottieAnimationView>
+        <com.airbnb.lottie.LottieAnimationView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:id="@+id/anim3"
+            app:lottie_autoPlay="true"
+            app:lottie_loop="true"
+            app:lottie_rawRes="@raw/holdingmoney"
+            android:layout_toEndOf="@id/anim2"
+            android:layout_toRightOf="@id/anim2">
+        </com.airbnb.lottie.LottieAnimationView>
+        <com.airbnb.lottie.LottieAnimationView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:id="@+id/anim4"
+            app:lottie_autoPlay="true"
+            app:lottie_loop="true"
+            app:lottie_rawRes="@raw/introservice1"
+            android:layout_below="@id/l1">
+        </com.airbnb.lottie.LottieAnimationView>
+
+
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+        <com.airbnb.lottie.LottieAnimationView
+            android:id="@+id/anim22"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginStart="99dp"
+            android:layout_marginLeft="99dp"
+            android:visibility="visible"
+            app:lottie_autoPlay="true"
+            app:lottie_loop="true"
+            app:lottie_rawRes="@raw/simpletick">
+
+        </com.airbnb.lottie.LottieAnimationView>
+
+
+    </RelativeLayout>
+    <com.airbnb.lottie.LottieAnimationView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        app:lottie_autoPlay="true"
+        app:lottie_loop="true"
+        android:visibility="visible"
+        app:lottie_rawRes="@raw/creditcards"
+>
+    </com.airbnb.lottie.LottieAnimationView>
+
+
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/anim21"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:visibility="visible"
+        app:lottie_autoPlay="true"
+        app:lottie_loop="true"
+        app:lottie_rawRes="@raw/fastinrto2">
+
+    </com.airbnb.lottie.LottieAnimationView>
+</LinearLayout>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "668033373414",
+    "firebase_url": "https://loginstats-4d6ee.firebaseio.com",
+    "project_id": "loginstats-4d6ee",
+    "storage_bucket": "loginstats-4d6ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668033373414:android:0a66c0fcf535ceda425727",
+        "android_client_info": {
+          "package_name": "com.example.loginstats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668033373414-edpjapv71mq5aagr4a2n1m65j585lsoi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzBugjd4UfjgkDZhpHYj6cPDplYMqS7IE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668033373414-edpjapv71mq5aagr4a2n1m65j585lsoi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

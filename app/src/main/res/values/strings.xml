@@ -1,0 +1,106 @@
+<resources>
+    <string name="app_name">LoginSimple2</string>
+    <string name="welcome_to">Welcome Back!</string>
+    <string name="sign_in_to_continue">Sign In to Continue</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="or_continue_with">Or Sign In with</string>
+    <string name="don_t_have_an_account">Don\'t have an Account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="continue_with_google">Google</string>
+    <string name="continue_with_facebook">Facebook</string>
+    <string name="todo">TODO</string>
+    <string name="welcome">Welcome</string>
+    <string name="already_have_an_account">Already have an Account?</string>
+    <string name="get_started">Get Started</string>
+    <string name="next">Next</string>
+    <string name="try_again">Try Again</string>
+    <string name="reset">Reset</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="full_name">Full Name</string>
+    <string name="business_name">Business Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="business_description">Business Description</string>
+    <string name="continue2">Continue</string>
+    <string name="personal_info">Personal Info</string>
+    <string name="textview">TextView</string>
+    <string name="birthdate">BirthDate</string>
+    <string name="business_info">Business Info</string>
+    <string name="pick_service_category">Pick Service Category</string>
+    <string name="address">Search store or click end icon to get current location</string>
+    <string name="gender">Gender</string>
+    <string name="Addhar_number">Addhar number</string>
+    <string name="men">Men</string>
+    <string name="women">Women</string>
+    <string name="other">Other</string>
+    <string name="select_your_gender">Select Your Gender</string>
+    <string-array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="serviceCategory">
+        <item>Car Services/Servicing</item>
+        <item>Repair Service</item>
+        <item>Internet Services</item>
+        <item>Photography Services</item>
+        <item>Financial Services/Adviser</item>
+        <item>Electrician</item>
+    </string-array>
+
+    <string-array name="workingDays">
+        <item>7</item>
+        <item>6</item>
+        <item>5</item>
+        <item>4</item>
+        <item>3</item>
+    </string-array>
+
+    <string name="openNavDrawer">Navigation Drawer Open</string>
+    <string name="closeNavDrawer">Navigation Drawer Closed</string>
+
+
+    <string name="working_days">Working Days</string>
+    <string name="your_acc_process">Your account is Verifying you will get notified in 3-4 business Days</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="month_revenue">Month Revenue</string>
+    <string name="add_your_business_logo">Add your Business Logo</string>
+    <string name="firm_sentense">Business Logo helps to promote your firm. If you don\'t have Logo Add firm Name poster or anything that shows your firm.</string>
+    <string name="add_photo">Add Photo</string>
+    <string name="change_logo">Change Logo</string>
+    <string name="change_profile_photo">Change Profile Photo</string>
+    <string name="revenue">Revenue</string>
+    <string name="order_history">Order History</string>
+    <string name="home">Home</string>
+    <string name="demoMail">abc232@gmail.com</string>
+    <string name="username">UserName</string>
+    <string name="app">App</string>
+    <string name="account">Account</string>
+    <string name="orders">Orders</string>
+    <string name="profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_orders_yet">No Orders Yet</string>
+    <string name="sign_up_to_continue">Sign Up to Continue</string>
+    <string name="change_username">Change UserName</string>
+    <string name="done">Done</string>
+    <string name="plswa">Please Wait</string>
+    <string name="total_revenue">Total Revenue</string>
+    <string name="total_orders">Total Orders</string>
+    <string name="website">Website</string>
+    <string name="service">Service</string>
+    <string name="website_name_optional">Website Name (Optional)</string>
+    <string name="add_your_business_website">Add Your Business Website</string>
+    <string name="websiteSen">If your Firm has Website Add it will help customer to reach you if You don\'t have then Skip it.</string>
+    <string name="skip">Skip</string>
+    <string name="restr">Retry</string>
+    <string name="zero">0</string>
+    <string name="no_name">No Name</string>
+    <string name="today_revenue">Today Revenue</string>
+    <string name="orders_pending">Orders Pending</string>
+
+
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6433EC</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#0340DA</color>
+    <color name="white">#fff</color>
+    <color name="black">#000</color>
+    <color name="wel_txt">#4C4C4C</color>
+    <color name="green">#46CB18</color>
+    <color name="grey_txt">#5F5F5F</color>
+    <color name="grey_faint">#BFBEBE</color>
+    <color name="actionTextColor">#03DAC5</color>
+    <color name="shrine_pink_100">#7076FE</color>
+    <color name="shrine_pink_900">#03DAC5</color>
+    <color name="purple">#B100FB</color>
+
+    <!-- Colours for buttons-->
+    <color name="gradient_start_colour">#4c84ff</color>
+    <color name="gradient_end_colour">#18a3fe</color>
+
+    <!-- Colours for tab and screen text-->
+    <color name="tab_indicator_gray">#c0c0c0</color>
+    <color name="intro_title_colour">#000000</color>
+    <color name="intro_description_colour">#656565</color>
+    <color name="red">#CD1818</color>
+
+
+
+
+    <color name="address">#2F7092</color>
+    <color name="followers">#0D5D98</color>
+    <color name="headings">#3797CF</color>
+    <color name="solidCircle">#AAFFFFFF</color>
+    <color name="circleBorder">#50FFFFFF</color>
+    <color name="gradEnd">#67EFC8</color>
+    <color name="gradStart">#63C9FF</color>
+    <color name="followersBg">#65DCE5</color>
+    <color name="followingBg">#49BEFF</color>
+    <color name="grey">#E5E5E5</color>
+</resources>

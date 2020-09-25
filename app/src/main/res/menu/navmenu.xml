@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/account">
+
+        <menu>
+            <item
+                android:icon="@drawable/ic_profile"
+                android:id="@+id/changeProfile"
+                android:title="@string/change_profile_photo"/>
+
+            <item
+                android:icon="@drawable/ic_convert"
+                android:id="@+id/changeLogo"
+                android:title="@string/change_logo"/>
+            <item
+                android:icon="@drawable/ic_sales"
+                android:id="@+id/revenue"
+                android:title="@string/revenue"/>
+            <item
+                android:icon="@drawable/ic_history"
+                android:id="@+id/historyOrder"
+                android:title="@string/order_history"/>
+        </menu>
+
+    </item>
+
+    <item android:title="@string/app">
+
+        <menu>
+            <item
+                android:icon="@drawable/ic_home"
+                android:id="@+id/home_Nav"
+                android:title="@string/home"/>
+
+            <item
+                android:icon="@drawable/ic_logout"
+                android:id="@+id/signOut_Nav"
+                android:title="@string/sign_out"/>
+        </menu>
+
+    </item>
+</menu>
